@@ -4,7 +4,7 @@ Abaixo estão algumas orientações e dúvidas comuns ao desenvolvimento do proj
 
 Se houver qualquer outra dúvida ou problema, é só procurar a monitoria ou postar uma thread no slack. Estamos juntos! 👍
 
-## Git e GitHub
+## Git e GitHubb
 
 <details>
   <summary>‼️ Antes de começar a desenvolver</summary><br />
