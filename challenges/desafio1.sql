@@ -104,7 +104,7 @@ CREATE TABLE musica
 INSERT INTO musica (id, titulo, artista_id, album_id, duracao_segundos) VALUES
 	('1', 'BREAK MY SOUL', '1', '1', '279'),
 	('2', 'VIRGO\'S GROOVE', '1', '1', '369'),
-	('3', 'ALIEN SUPERSTAR', '1', '1', '118'),
+	('3', 'ALIEN SUPERSTAR', '1', '1', '116'),
 	('4', 'Don\'t Stop Me Now', '2', '2', '203'),
 	('5', 'Under Pressure', '2', '3', '152'),
 	('6', 'Como Nossos Pais', '3', '4', '105'),
