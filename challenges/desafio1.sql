@@ -9,7 +9,7 @@ CREATE TABLE plano (
 ) engine = InnoDB;
 
 INSERT INTO plano (id, nome, valor_plano) VALUES
-	('1', 'gratuito', '0'),
+	('1', 'gratuito', '0.00'),
 	('2', 'familiar', '7.99'),
 	('3', 'universitário', '5.99'),
 	('4', 'pessoal', '6.99');
